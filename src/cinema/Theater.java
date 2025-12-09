@@ -2,7 +2,6 @@ package cinema;
 
 public class Theater {
 
-
         private int id;
         private String name;
         private int numberOfRows;
@@ -48,6 +47,7 @@ public class Theater {
                     '}';
         }
     }
+
 
 
 
